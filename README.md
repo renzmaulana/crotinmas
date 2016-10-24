@@ -1,0 +1,2 @@
+# crotinmas
+safelink
